@@ -86,3 +86,7 @@ outputTargets: [
 - Run the Spring Boot Service
 - Run the frontend `watch` script
 - Profit 💰
+
+## References
+
+- Maven Frontend Plugin: https://github.com/eirslett/frontend-maven-plugin
