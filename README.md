@@ -90,3 +90,4 @@ outputTargets: [
 ## References
 
 - Maven Frontend Plugin: https://github.com/eirslett/frontend-maven-plugin
+- StencilJS Output Target WWW configuration: https://stenciljs.com/docs/www
